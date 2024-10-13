@@ -1,7 +1,7 @@
 /* Globalni stil */
 * {
     font-family: 'Roboto', sans-serif;
-    
+
     box-sizing: border-box;
 }
 
@@ -20,7 +20,7 @@ h1 {
     text-align: center;
     font-size: 48px; 
     color: #2c3e50; 
-    margin-bottom: 20px;
+    margin-bottom: 21px;
     background: none;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); 
 }
